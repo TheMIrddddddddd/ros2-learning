@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-a7ce237041bdc39f43fe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_topic_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_topic_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_topic_pkg_uninstall-918f87168b953c83b580.json",
+					"name" : "cpp_topic_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_cpp_ctrl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_cpp_ctrl-f0783ceae18cf4064e63.json",
+					"name" : "demo_cpp_ctrl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_circle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_circle-7f0542949d7b41a70a27.json",
+					"name" : "turtle_circle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a3586412bd039bc01fc9.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg",
+		"source" : "/home/gan/ros2_chapt3/topic_ws/src/cpp_topic_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

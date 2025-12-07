@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /home/gan/ros2_chapt3/topic_pra_ws/src/status_interface/msg)",
+      "Bash(mv /home/gan/ros2_chapt3/topic_pra_ws/src/status_interface/include/msg/SystemStaus.msg /home/gan/ros2_chapt3/topic_pra_ws/src/status_interface/msg/SystemStatus.msg)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

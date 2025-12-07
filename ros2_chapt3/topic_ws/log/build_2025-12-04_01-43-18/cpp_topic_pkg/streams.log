@@ -1,0 +1,28 @@
+[0.008s] Invoking command in '/home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg -- -j20 -l20
+[0.041s] [35m[1mConsolidate compiler generated dependencies of target demo_cpp_ctrl[0m
+[0.053s] [ 50%] Built target turtle_circle
+[0.054s] [ 75%] [32mBuilding CXX object CMakeFiles/demo_cpp_ctrl.dir/src/demo_cpp_ctrl.cpp.o[0m
+[7.248s] [100%] [32m[1mLinking CXX executable demo_cpp_ctrl[0m
+[7.510s] [100%] Built target demo_cpp_ctrl
+[7.519s] Invoked command in '/home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg -- -j20 -l20
+[7.527s] Invoking command in '/home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg
+[7.533s] -- Install configuration: ""
+[7.533s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/lib/cpp_topic_pkg/turtle_circle
+[7.533s] -- Installing: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/lib/cpp_topic_pkg/demo_cpp_ctrl
+[7.535s] -- Set runtime path of "/home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/lib/cpp_topic_pkg/demo_cpp_ctrl" to ""
+[7.535s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_topic_pkg
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_topic_pkg
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/environment/ament_prefix_path.sh
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/environment/ament_prefix_path.dsv
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/environment/path.sh
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/environment/path.dsv
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/local_setup.bash
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/local_setup.sh
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/local_setup.zsh
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/local_setup.dsv
+[7.536s] -- Installing: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/package.dsv
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/ament_index/resource_index/packages/cpp_topic_pkg
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/cmake/cpp_topic_pkgConfig.cmake
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/cmake/cpp_topic_pkgConfig-version.cmake
+[7.536s] -- Up-to-date: /home/gan/ros2_chapt3/topic_ws/install/cpp_topic_pkg/share/cpp_topic_pkg/package.xml
+[7.538s] Invoked command in '/home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg

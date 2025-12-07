@@ -1,0 +1,39 @@
+[0.085s] Invoking command in '/home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg -- -j20 -l20
+[0.262s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.887s] -- Found rclcpp: 16.0.16 (/opt/ros/humble/share/rclcpp/cmake)
+[1.469s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.510s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.594s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.776s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.879s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.152s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.178s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.591s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.660s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.700s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.861s] -- Looking for pthread.h
+[3.015s] -- Looking for pthread.h - found
+[3.029s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.106s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.107s] -- Found Threads: TRUE  
+[3.375s] [31mCMake Error at CMakeLists.txt:11 (find_package):
+[3.375s]   By not providing "Findgemoetry_msgs.cmake" in CMAKE_MODULE_PATH this
+[3.375s]   project has asked CMake to find a package configuration file provided by
+[3.375s]   "gemoetry_msgs", but CMake did not find one.
+[3.375s] 
+[3.375s]   Could not find a package configuration file provided by "gemoetry_msgs"
+[3.375s]   with any of the following names:
+[3.375s] 
+[3.375s]     gemoetry_msgsConfig.cmake
+[3.375s]     gemoetry_msgs-config.cmake
+[3.375s] 
+[3.375s]   Add the installation prefix of "gemoetry_msgs" to CMAKE_PREFIX_PATH or set
+[3.375s]   "gemoetry_msgs_DIR" to a directory containing one of the above files.  If
+[3.375s]   "gemoetry_msgs" provides a separate development package or SDK, be sure it
+[3.375s]   has been installed.
+[3.375s] 
+[3.375s] [0m
+[3.375s] -- Configuring incomplete, errors occurred!
+[3.375s] See also "/home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg/CMakeFiles/CMakeOutput.log".
+[3.379s] gmake: *** [Makefile:226：cmake_check_build_system] 错误 1
+[3.381s] Invoked command in '/home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gan/ros2_chapt3/topic_ws/build/cpp_topic_pkg -- -j20 -l20

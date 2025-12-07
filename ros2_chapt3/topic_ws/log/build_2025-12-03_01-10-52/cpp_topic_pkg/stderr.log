@@ -1,0 +1,5 @@
+[31mCMake Error at CMakeLists.txt:34 (install):
+  install TARGETS given target "demo_cpp_topic" which does not exist.
+
+[0m
+gmake: *** [Makefile:226：cmake_check_build_system] 错误 1
