@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__sequential-thinking__sequentialthinking",
+      "Bash(clang-format:*)",
+      "Bash(cat:*)",
+      "Bash(apt list:*)",
+      "Bash(code --list-extensions:*)",
+      "Bash(sudo -S apt install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
